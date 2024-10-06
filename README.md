@@ -18,4 +18,6 @@ Next.jsに反映させれるかお試しするプロジェクト。
 
 ## URL
 
+[Next.js](https://nextjs.org)
+
 [Create.xyz](https://www.create.xyz/)
